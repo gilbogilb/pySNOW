@@ -145,6 +145,8 @@ def gyr_desc(index_frame: int, positions, masses=None, COM=True):
     Returns
     -------
     float
+        gyration radius
+    float
         asphericity
     float
         acylindricity
